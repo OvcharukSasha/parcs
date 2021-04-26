@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="324418f6-7298-471b-b798-b852f5753d7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rfwJK1mzDXAwDBieIMVyuqMyhF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="javaParcsAlgo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.jar" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="Main.jar" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="clean" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="run" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Makefile.run" />
+        <item itemvalue="Makefile.Main.jar" />
+        <item itemvalue="Makefile.clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="324418f6-7298-471b-b798-b852f5753d7a" name="Default Changelist" comment="" />
+      <created>1619380378942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619380378942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="94" key="#Project_Structure" timestamp="1619462568952">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="320" y="94" key="#Project_Structure/0.25.1440.814@0.25.1440.814" timestamp="1619462568952" />
+    <state x="432" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619462885362">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="432" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.814@0.25.1440.814" timestamp="1619462885362" />
+    <state x="258" y="91" key="DBNavigator.ProjectSettingsDialog" timestamp="1619387674386">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="258" y="91" key="DBNavigator.ProjectSettingsDialog/0.25.1440.814@0.25.1440.814" timestamp="1619387674386" />
+    <state width="1398" height="180" key="GridCell.Tab.0.bottom" timestamp="1619468218314">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1619468218314" />
+    <state width="1398" height="180" key="GridCell.Tab.0.center" timestamp="1619468218314">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1619468218314" />
+    <state width="1398" height="180" key="GridCell.Tab.0.left" timestamp="1619468218313">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1619468218313" />
+    <state width="1398" height="180" key="GridCell.Tab.0.right" timestamp="1619468218314">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1619468218314" />
+    <state x="208" y="25" key="SettingsEditor" timestamp="1619462600647">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="208" y="25" key="SettingsEditor/0.25.1440.814@0.25.1440.814" timestamp="1619462600647" />
+    <state x="434" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1619387654055">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="434" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1440.814@0.25.1440.814" timestamp="1619387654055" />
+    <state x="385" y="163" width="670" height="676" key="search.everywhere.popup" timestamp="1619462487931">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="385" y="163" width="670" height="676" key="search.everywhere.popup/0.25.1440.814@0.25.1440.814" timestamp="1619462487931" />
+  </component>
+</project>
