@@ -1,7 +1,6 @@
-import javafx.scene.Node;
 import parcs.AM;
 import parcs.AMInfo;
-
+import parcs.*;
 import java.math.BigInteger;
 
 class Fermat implements AM {
@@ -9,8 +8,7 @@ class Fermat implements AM {
   private static final BigInteger ONE = BigInteger.ONE;
 
   public void run(AMInfo info) {
-    Node nn = (Node)info.parent.readObject();
-    System.out.println("[" + nn.getId() + "] Build started.");
+
     BigInteger n = (BigInteger) info.parent.readObject();
     System.out.println("n="+n);
     BigInteger res1 = FermatFactor(n);

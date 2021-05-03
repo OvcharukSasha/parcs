@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="324418f6-7298-471b-b798-b852f5753d7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Fermat.data" beforeDir="false" afterPath="$PROJECT_DIR$/out/Fermat.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Main.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/Main.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/server" beforeDir="false" afterPath="$PROJECT_DIR$/out/server" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fermat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fermat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +192,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>13</line>
+          <line>14</line>
           <properties class="Main" method="main">
             <option name="EMULATED" value="true" />
           </properties>
