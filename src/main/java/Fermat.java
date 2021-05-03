@@ -9,9 +9,13 @@ class Fermat implements AM {
 
   public void run(AMInfo info) {
     BigInteger n = (BigInteger) info.parent.readObject();
+    System.out.println("n="+n);
     BigInteger res1 = FermatFactor(n);
+    System.out.println("res1="+res1);
     BigInteger res2 = n.divide(res1);
+    System.out.println("res2="+res2);
     var p = info.createPoint();
+    System.out.println("p created");
     var c = p.createChannel();
     p.execute("Algorithm");
     c.write(n);

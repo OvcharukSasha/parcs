@@ -1,5 +1,6 @@
 import parcs.AM;
 import parcs.AMInfo;
+import parcs.point;
 import parcs.task;
 
 import java.io.File;
@@ -17,6 +18,7 @@ public class Main implements AM {
     curTask.addJarFile("Fermat.jar");
     System.out.println("added Fermat.jar");
     var fermat = new Fermat();
+
     fermat.run(new AMInfo(curTask, null));
     System.out.println("");
     curTask.end();
