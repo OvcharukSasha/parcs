@@ -13,10 +13,12 @@ public class Main implements AM {
 
   public static void main(String[] args) {
     var curTask = new task();
+    System.out.println("task finished");
     curTask.addJarFile("Fermat.jar");
-
+    System.out.println("added Fermat.jar");
     var fermat = new Fermat();
     fermat.run(new AMInfo(curTask, null));
+    System.out.println("");
     curTask.end();
   }
 
